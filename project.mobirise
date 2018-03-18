@@ -39,7 +39,7 @@
     },
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/sisu-trans-250.gif",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.2",
